@@ -5,7 +5,7 @@ Welcome to my github profile, I am **bedwarshurts**, a minecraft server owner pa
 
 ## 🔭 About me
 
-I am an avid programmer and software enthusiast with a passion for learning and sharing knowledge. My areas of interest include data science, game development and bot development. In the future, through my github account, I strive to contribute to the open-source community, but for now I am working for private projects for a minecraft server only.
+I am an avid programmer and software enthusiast with a passion for learning and sharing knowledge. My areas of interest include data science, game development and bot development. In the future, through my github account, I strive to contribute to the open-source community, but for now I am working on private projects for a minecraft server only.
 <!-- ## 💼 Work Experience
 
 - Alchemist Network, Developer (2019 - Present): I am the main developer of the alchemist network minecraft server, currently working on the upcoming mmorpg gamemode.
