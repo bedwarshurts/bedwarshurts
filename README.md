@@ -25,8 +25,6 @@ I am an avid programmer and software enthusiast with a passion for learning and 
 - Built a minecraft server from the ground up at age 16, mostly including custom made software.
 - Volunteered as a System Admin in a minecraft hosting company at age 15.
 - Contributed in the making of the popular superguilds spigot plugin.
-- Reached 1600 elo in lichess.org under 2 months of playing.
-- Acquired best egirl award on the Fusionland minecraft SMP.
 
 ## 📫 How to reach me
 
