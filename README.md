@@ -1,7 +1,7 @@
 # Hello there 👋
 *“The reading of all good books is indeed like a conversation with the noblest men of past centuries who were the authors of them, nay a carefully studied conversation, in which they reveal to us none but the best of their thoughts.”*
 
-Welcome to my github profile, I am **bedwarshurts**, a minecraft server owner passionate about mathematics, physics, and programming. I am currently 19 years old and I love working on providing solutions through programming.
+Welcome to my github profile, I am **bedwarshurts**, a minecraft server owner passionate about mathematics, physics, and programming. I am currently a 19 years old software engineering student and I love working on providing solutions through programming.
 
 ## 🔭 About me
 
