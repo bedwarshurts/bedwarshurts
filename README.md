@@ -24,7 +24,6 @@ I am an avid programmer and software enthusiast with a passion for learning and 
 - Participated in Students in Diplomat Role in 2018 organised by the United Nations Organization and awarded for exceptional performance.
 - Built a minecraft server from the ground up, mostly including custom made software.
 - Volunteered as a System Admin in a minecraft hosting company.
-- Contributed in the making of the popular superguilds spigot plugin.
 
 ## 📫 How to reach me
 
