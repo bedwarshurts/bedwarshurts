@@ -49,7 +49,7 @@
 
 ###
 
-### 📫 How to reach me
+<h2 align="left">📫 How to reach me</h2>
 
 - Email: bedwarshurts@alchemistnetwork.org
 - Discord: @bedwarshurts
