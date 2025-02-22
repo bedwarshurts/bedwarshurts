@@ -1,47 +1,50 @@
-# Hello there 👋
-*“The reading of all good books is indeed like a conversation with the noblest men of past centuries who were the authors of them, nay a carefully studied conversation, in which they reveal to us none but the best of their thoughts.”*
+<h2 align="left">Hi 👋! Welcome to my github profile, I am bedwarshurts, and I love working on block game.</h2>
 
-Welcome to my github profile, I am **bedwarshurts**, a minecraft server owner passionate about mathematics, physics, and programming. I am currently a 19 years old software engineering student and I love working on providing solutions through programming.
+###
 
-## 🔭 About me
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bedwarshurts&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bedwarshurts&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-I am an avid programmer and software enthusiast with a passion for learning and sharing knowledge. My areas of interest include data science, game development and bot development. In the future, through my github account, I strive to contribute to the open-source community, but for now I am working on private projects for a minecraft server only.
-<!-- ## 💼 Work Experience
+###
 
-- Alchemist Network, Developer (2019 - Present): I am the main developer of the alchemist network minecraft server, currently working on the upcoming mmorpg gamemode.
-- Fusion Land, Admin (2021 - 2022): I was part of the admin team on the Fusionland Minecraft SMP, responsible for player behaviour and ensuring that the server is working properly.
-- Falix Nodes, 2nd Tier custommer support (2020 - 2021): Held the role as a support team member on falixnodes, responsible for answering complicated tickets and providing exceptional customer support, resigned since the company turned out to be making use of scummy practices. -->
-## 🚀 Skills
+<img align="right" height="141" src="https://imgur.com/2nD5ezz.gif"  />
 
-- I posses deep knowledge for the C++ and Java programming languages.
-- I have worked with Unreal and Unity engines.
-- I posses a deep understanding for SQL servers, and Mongo and redis databases.
-- I have honed the ability to scope and prioritize tasks on ambiguous and complex technical projects.
-- I have worked on multiple projects using the Bukkit API.
+###
 
-## 🏆 Achievements and Experience
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="oracle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+</div>
 
-- Participated in Students in Diplomat Role in 2018 organised by the United Nations Organization and awarded for exceptional performance.
-- Built a minecraft server from the ground up, mostly including custom made software.
-- Volunteered as a System Admin in a minecraft hosting company.
+###
 
-## 📫 How to reach me
+<div align="center">
+  <a href="alchemistnetwork.org/discord" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
+</div>
 
-- Email: bedwarshurts@alchemistnetwork.org
-- Discord: @bedwarshurts
+###
 
-✨ Feel free to reach out if you have any questions, lets create something amazing, together! ✨
-<!--
-**bedwarshurts/bedwarshurts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br clear="both">
 
-Here are some ideas to get you started:
+<img src="https://raw.githubusercontent.com/bedwarshurts/bedwarshurts/output/snake.svg" alt="Snake animation" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
