@@ -48,3 +48,10 @@
 <img src="https://raw.githubusercontent.com/bedwarshurts/bedwarshurts/output/snake.svg" alt="Snake animation" />
 
 ###
+
+### 📫 How to reach me
+
+- Email: bedwarshurts@alchemistnetwork.org
+- Discord: @bedwarshurts
+
+✨ Feel free to reach out if you have any questions, lets create something amazing, together! ✨
