@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! Welcome to my github profile, I am bedwarshurts, and I love working on block game.</h2>
+<h2 align="left">Hi 👋! Welcome to my github, I am bedwarshurts, and I love working on block game.</h2>
 
 ###
 
