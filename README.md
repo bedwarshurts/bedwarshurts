@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="141" src="https://imgur.com/2nD5ezz.gif"  />
+<img align="right" height="131" src="https://imgur.com/2nD5ezz.gif"  />
 
 ###
 
