@@ -9,10 +9,6 @@
 
 ###
 
-<img align="right" height="131" src="https://imgur.com/2nD5ezz.gif"  />
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
